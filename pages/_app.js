@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick.css";
 import useScrollPosition from "use-scroll-position";
 import "../css/style.css";
 import "../css/skin/skin-1.css";
-import "../styles/globals.css";
+// import "../styles/globals.css";
 import "../styles/switcher.css";
 
 function MyApp({ Component, pageProps }) {
